@@ -3,12 +3,14 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
+* Tutorials
+  * [Getting started(Omise)](./tutorials/gettingStart/index)
+  * [Alipay](./tutorials/alipay/index)
+  <!-- * [Java](./tutorials/java/index) -->
+  * Plugin
+  	 * [Shopify](./tutorials/plugin/shopify/index)
+  	 * [Woocommerce](./tutorials/plugin/woocommerce/index)
 
 * [About](./about/index)
 
 * [Contact](./contact/index)
-

@@ -12,7 +12,6 @@ public class HelloJava {
   }
 }
 ```
-
 You need to have Java SDK first. Once you have that, run the following commands in sequence.
 
 ```bash
